@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ingv4r
-- 👀 I’m interested in Python, ML, but I'm still looking for what I like more
+- 👀 I’m interested in Python, backend, Golang
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on learning Python
+- 💞️ I’m looking to collaborate on learning Python and Golang
 - 📫 How to reach me: venom3800@yandex.ru
 
 <!---
