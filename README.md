@@ -1,8 +1,25 @@
-- 👋 Hi, I’m @Ingv4r
-- 👀 I’m interested in Python, backend, Golang
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on learning Python and Golang
-- 📫 How to reach me: venom3800@yandex.ru
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Igor</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">I'm interested in python, go and backend development.</h3>
+
+##
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ingv4r&theme=solarized_dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingv4r&layout=compact)](https://github.com/ingv4r/github-readme-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ingv4r&theme=dark)](https://github.com/ingv4r/leetcode-stats)
+
 
 <!---
 Ingv4r/Ingv4r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
