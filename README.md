@@ -17,7 +17,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ingv4r&theme=solarized_dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingv4r&layout=compact)](https://github.com/ingv4r/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ingv4r&theme=solarized_dark)
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ingv4r&theme=dark)](https://github.com/ingv4r/leetcode-stats)
 
 
