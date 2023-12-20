@@ -15,8 +15,6 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ingv4r&theme=solarized_dark)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ingv4r&theme=solarized_dark)
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ingv4r&theme=dark)](https://github.com/ingv4r/leetcode-stats)
 
