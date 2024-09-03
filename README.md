@@ -1,7 +1,8 @@
 <h1 align="center">Hi there, I'm Igor
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I'm interested in python, go and backend development.</h3>
+<h3 align="center">I'm interested in python, go, java and backend development.</h3>
 
+<!---
 ##
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -13,10 +14,10 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+--->
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ingv4r&theme=solarized_dark)
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ingv4r&theme=dark)](https://github.com/ingv4r/leetcode-stats)
+<!---![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ingv4r&theme=solarized_dark)--->
 
 
 <!---
